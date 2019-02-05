@@ -53,7 +53,7 @@ This plugin works on a per project basis.
 To enable it, go to Project -> Settings -> Modules and enable "Newissuealerts"
 
 By default only Redmine managers can access the plugin settings. Administrators need to enable access to project managers
-through <tt>http://redmine.url/roles/report</tt> under the "Newissuealerts" section.
+through <tt>http://redmine.url/roles/permissions</tt> under the "Newissuealerts" section.
 
 A tab called "Email on New Issue" will appear on project which have enabled the plugin providing that the user has enough credential.
 
